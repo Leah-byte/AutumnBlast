@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Autumn Blast</string>
+
+    <string name="btn_leaderboard">LEADERBOARD</string>
+    <string name="btn_start">PLAY</string>
+    <string name="btn_start2">PLAY AGAIN</string>
+    <string name="btn_exit">QUIT</string>
+    <string name="btn_home">HOME</string>
+    <string name="btn_sound">SOUND</string>
+    <string name="btn_mute">MUTE</string>
+    <string name="btn_sign_in">Sign in</string>
+    <string name="btn_sign_out">Sign out</string>
+    <string name="score">Score:</string>
+    <string name="high_score">Your High Score:</string>
+    <string name="loading">Loading</string>
+    <string name="time_up">TIME IS UP</string>
+
+</resources>
